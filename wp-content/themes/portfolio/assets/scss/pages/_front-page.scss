@@ -1,0 +1,29 @@
+.first-line {
+    display: inline;
+
+    @include medium {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+.realizations {
+    @include medium {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+}
+
+.realization__container {
+    width: 100%;
+    padding: $gutter-simple;
+
+    @include medium {
+        width: 45%;
+    }
+}
+
+.realization__thumbnail{
+    width: 100%;
+}

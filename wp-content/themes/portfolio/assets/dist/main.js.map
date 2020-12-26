@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":[],"mappings":";;;;;AAIA,aAHA,QAAA,aAGA,QAAA","file":"main.js","sourceRoot":"../js","sourcesContent":["// import dependencies\nimport 'reset-css';\n\n// import sass\nimport '../scss/main';\n"]}

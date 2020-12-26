@@ -1,0 +1,15 @@
+// import abstracts
+@import "./abstracts/fonts";
+@import "./abstracts/mixins";
+@import "./abstracts/variables";
+
+// import components
+@import "./components/navbar";
+
+// import layouts
+@import "./layouts/footer";
+@import "./layouts/globals";
+@import "./layouts/header";
+
+// import pages
+@import './pages/front-page';

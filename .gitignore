@@ -1,0 +1,11 @@
+.htaccess
+vendor
+wp
+wp-config.php
+nodes_modules
+
+/wp-content/*
+!/wp-content/
+/wp-content/themes/*
+!/wp-content/themes/
+!/wp-content/themes/portfolio
